@@ -1,0 +1,4 @@
+com\comments\controller\CommentController.class
+com\comments\ManageCommentsServiceApplication.class
+com\comments\domain\Comment.class
+com\comments\service\CommentRepository.class
